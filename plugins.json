@@ -1,9 +1,8 @@
 [
   {
     "name": "music_card",
-    "author": "Sihnbaobao",
+    "repo": "https://github.com/Sihnbaobao/astrbot_plugin_music_card",
     "version": "0.1.0",
-    "description": "QQ音乐网易云链接转音乐卡片",
-    "repo": "https://github.com/Sihnbaobao/astrbot_plugin_music_card"
+    "description": "QQ音乐网易云链接转音乐卡片"
   }
 ]
