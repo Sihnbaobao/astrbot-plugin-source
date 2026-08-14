@@ -6,5 +6,13 @@
     "version": "0.1.0",
     "description": "自动将QQ音乐和网易云音乐链接转换为音乐卡片",
     "repo": "https://github.com/Sihnbaobao/astrbot_plugin_music_card"
+  },
+  {
+    "id": "astrbot_plugin_chat_plus_lite",
+    "name": "群聊读空气（精简版）",
+    "author": "Sihnbaobao",
+    "version": "V2.0.0-lite",
+    "description": "以AI读空气为主的群聊增强插件（精简重构版）：插件只决定要不要回复，不决定说什么，回复内容完全交给AstrBot原始链路（用户设定的人格+平台默认prompt），不再注入任何行为指令",
+    "repo": "https://github.com/Sihnbaobao/astrbot_plugin_chat_plus_lite"
   }
 ]
