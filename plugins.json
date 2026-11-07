@@ -17,7 +17,7 @@
   "Sihnbaobao/astrbot_plugin_persona_presence": {
     "author": "Sihnbaobao",
     "name": "astrbot_plugin_persona_presence",
-    "version": "1.9.6",
+    "version": "1.9.7",
     "repo": "https://github.com/Sihnbaobao/astrbot_plugin_persona_presence",
     "desc": "让当前 Persona 按兴趣、关系和当下意愿选择是否参与群聊的对话增强插件",
     "display_name": "人格自主参与",
