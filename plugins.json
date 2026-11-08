@@ -2,7 +2,7 @@
   "$meta": {
     "schema_version": 1,
     "name": "Sihnbaobao 插件源",
-    "version": "2026-08-17",
+    "version": "2026-11-08",
     "repository": "https://github.com/Sihnbaobao/astrbot-plugin-source",
     "description": "Sihnbaobao 的个人 AstrBot 插件源"
   },
@@ -21,6 +21,24 @@
     "repo": "https://github.com/Sihnbaobao/astrbot_plugin_persona_presence",
     "desc": "让当前 Persona 按兴趣、关系和当下意愿选择是否参与群聊的对话增强插件",
     "display_name": "人格自主参与",
+    "astrbot_version": ">=4.11.0"
+  },
+  "Sihnbaobao/astrbot_plugin_bili_whale": {
+    "author": "Sihnbaobao",
+    "name": "astrbot_plugin_bili_whale",
+    "version": "0.3.0",
+    "repo": "https://github.com/Sihnbaobao/astrbot_plugin_bili_whale",
+    "desc": "让她自己按作息刷B站：随机醒、挑片、真看懂视频、写日记，再决定要不要叫你",
+    "display_name": "养鱼 · 自己刷B站",
+    "astrbot_version": ">=4.9.0"
+  },
+  "Sihnbaobao/astrbot_plugin_kongjian": {
+    "author": "Sihnbaobao",
+    "name": "astrbot_plugin_kongjian",
+    "version": "0.2.1",
+    "repo": "https://github.com/Sihnbaobao/astrbot_plugin_kongjian",
+    "desc": "QQ空间对接插件（自维护）：让 bot 自己逛空间、自己发说说、自己点赞评论",
+    "display_name": "QQ空间",
     "astrbot_version": ">=4.11.0"
   }
 }
