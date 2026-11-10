@@ -9,7 +9,7 @@
   "Sihnbaobao/astrbot_plugin_music_card": {
     "author": "Sihnbaobao",
     "name": "astrbot_plugin_music_card",
-    "version": "1.15.7",
+    "version": "1.15.8",
     "repo": "https://github.com/Sihnbaobao/astrbot_plugin_music_card",
     "desc": "自动将QQ音乐和网易云音乐链接转换为音乐卡片",
     "display_name": "音乐卡片"
@@ -26,7 +26,7 @@
   "Sihnbaobao/astrbot_plugin_bili_whale": {
     "author": "Sihnbaobao",
     "name": "astrbot_plugin_bili_whale",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "repo": "https://github.com/Sihnbaobao/astrbot_plugin_bili_whale",
     "desc": "让她自己按作息刷B站：随机醒、挑片、真看懂视频、写日记，再决定要不要叫你",
     "display_name": "养鱼 · 自己刷B站",
