@@ -2,7 +2,7 @@
   "$meta": {
     "schema_version": 1,
     "name": "Sihnbaobao 插件源",
-    "version": "2026-11-08",
+    "version": "2026-11-16",
     "repository": "https://github.com/Sihnbaobao/astrbot-plugin-source",
     "description": "Sihnbaobao 的个人 AstrBot 插件源"
   },
@@ -35,7 +35,7 @@
   "Sihnbaobao/astrbot_plugin_kongjian": {
     "author": "Sihnbaobao",
     "name": "astrbot_plugin_kongjian",
-    "version": "0.2.1",
+    "version": "0.3.9",
     "repo": "https://github.com/Sihnbaobao/astrbot_plugin_kongjian",
     "desc": "QQ空间对接插件（自维护）：让 bot 自己逛空间、自己发说说、自己点赞评论",
     "display_name": "QQ空间",
