@@ -40,5 +40,14 @@
     "desc": "QQ空间对接插件（自维护）：让 bot 自己逛空间、自己发说说、自己点赞评论",
     "display_name": "QQ空间",
     "astrbot_version": ">=4.11.0"
+  },
+  "Sihnbaobao/astrbot_plugin_body_needs": {
+    "author": "Sihnbaobao",
+    "name": "astrbot_plugin_body_needs",
+    "version": "0.2.0",
+    "repo": "https://github.com/Sihnbaobao/astrbot_plugin_body_needs",
+    "desc": "给 Persona 一副按真实时间运转的身体：饥饿、口渴、如厕、清洁、口腔、睡眠、女性生理期与成年男性生理反应",
+    "display_name": "身体 · 生理需求",
+    "astrbot_version": ">=4.24.0"
   }
 }
