@@ -44,7 +44,7 @@
   "Sihnbaobao/astrbot_plugin_body_needs": {
     "author": "Sihnbaobao",
     "name": "astrbot_plugin_body_needs",
-    "version": "0.12.1",
+    "version": "0.12.2",
     "repo": "https://github.com/Sihnbaobao/astrbot_plugin_body_needs",
     "desc": "给 Persona 一副按真实时间运转的身体：饥饿、口渴、如厕、清洁、口腔、睡眠，以及女性生理期（含青春期）和男性的生理反应。状态会写进对话上下文，也会随吃喝洗漱真实改变",
     "display_name": "身体 · 生理需求",
