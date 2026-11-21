@@ -35,7 +35,7 @@
   "Sihnbaobao/astrbot_plugin_kongjian": {
     "author": "Sihnbaobao",
     "name": "astrbot_plugin_kongjian",
-    "version": "0.4.2",
+    "version": "0.4.6",
     "repo": "https://github.com/Sihnbaobao/astrbot_plugin_kongjian",
     "desc": "QQ空间对接插件（自维护）：让 bot 自己逛空间、自己发说说、自己点赞评论",
     "display_name": "QQ空间",
