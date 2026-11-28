@@ -17,7 +17,7 @@
   "Sihnbaobao/astrbot_plugin_persona_presence": {
     "author": "Sihnbaobao",
     "name": "astrbot_plugin_persona_presence",
-    "version": "2.6.3",
+    "version": "2.7.0",
     "repo": "https://github.com/Sihnbaobao/astrbot_plugin_persona_presence",
     "desc": "让当前 Persona 按兴趣、关系和当下意愿选择是否参与群聊的对话增强插件",
     "display_name": "人格自主参与",
@@ -26,7 +26,7 @@
   "Sihnbaobao/astrbot_plugin_bili_whale": {
     "author": "Sihnbaobao",
     "name": "astrbot_plugin_bili_whale",
-    "version": "0.3.1",
+    "version": "0.4.4",
     "repo": "https://github.com/Sihnbaobao/astrbot_plugin_bili_whale",
     "desc": "让她自己按作息刷B站：随机醒、挑片、真看懂视频、写日记，再决定要不要叫你",
     "display_name": "养鱼 · 自己刷B站",
@@ -35,7 +35,7 @@
   "Sihnbaobao/astrbot_plugin_kongjian": {
     "author": "Sihnbaobao",
     "name": "astrbot_plugin_kongjian",
-    "version": "0.4.6",
+    "version": "0.4.7",
     "repo": "https://github.com/Sihnbaobao/astrbot_plugin_kongjian",
     "desc": "QQ空间对接插件（自维护）：让 bot 自己逛空间、自己发说说、自己点赞评论",
     "display_name": "QQ空间",
@@ -44,7 +44,7 @@
   "Sihnbaobao/astrbot_plugin_body_needs": {
     "author": "Sihnbaobao",
     "name": "astrbot_plugin_body_needs",
-    "version": "0.28.0",
+    "version": "0.59.0",
     "repo": "https://github.com/Sihnbaobao/astrbot_plugin_body_needs",
     "desc": "给 Persona 一副按真实时间运转的身体：饥饿、口渴、如厕、清洁、口腔、睡眠，以及女性生理期（含青春期）和男性的生理反应。状态会写进对话上下文，也会随吃喝洗漱真实改变",
     "display_name": "身体 · 生理需求",
